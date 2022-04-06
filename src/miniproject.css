@@ -1,0 +1,11 @@
+.mini{
+    border: 5px green solid;
+    width: 500px;
+    height: 500px;
+    color: blueviolet;
+    margin: auto;
+    font-size: 20px;
+}
+input[type="number"]{
+    padding: 4px;
+}
